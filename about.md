@@ -3,12 +3,7 @@ layout: page
 title: About
 ---
 
-Some information about you!
+一个懂产品、会销售、知道市场的程序员！
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:wuxutao@gmail.com)
